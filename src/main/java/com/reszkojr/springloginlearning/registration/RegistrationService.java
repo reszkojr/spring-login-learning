@@ -1,4 +1,4 @@
-package com.reszkojr.springloginlearning.appuser.registration;
+package com.reszkojr.springloginlearning.registration;
 
 public class RegistrationService {
     public String register(RegistrationRequest request) {

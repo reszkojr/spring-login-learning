@@ -1,4 +1,4 @@
-package com.reszkojr.springloginlearning.appuser.registration;
+package com.reszkojr.springloginlearning.registration;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
